@@ -52,9 +52,9 @@ For Business Intelligence purposes, implementing this anomaly check as a routine
 
 I added a second detector for web-service metrics using these rules:
 
-- High traffic when `requests > 250`
+- High traffic when `requests > 200`
 - High error rate when `errors / requests > 0.04`
-- High latency when `total_latency_ms > 9000`
+- High latency when `total_latency_ms > 8000`
 
 The run flagged 22 anomaly intervals (timestamps between 9 and 49).
 Most were multi-signal events (high traffic, error rate, and latency together), which points to likely service strain during peak load windows.
