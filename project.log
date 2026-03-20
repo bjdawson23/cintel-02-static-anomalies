@@ -23,3 +23,206 @@
 2026-03-18 15:51:27 | INFO | P2 | Pipeline executed successfully!
 2026-03-18 15:51:27 | INFO | P2 | ========================
 2026-03-18 15:51:27 | INFO | P2 | END main()
+2026-03-20 17:02:32 | INFO | P2 | === RUN START ===
+2026-03-20 17:02:32 | INFO | P2 | project=CINTEL
+2026-03-20 17:02:32 | INFO | P2 | repo_dir=cintel-02-static-anomalies
+2026-03-20 17:02:32 | INFO | P2 | python=3.14.2
+2026-03-20 17:02:32 | INFO | P2 | os=Windows 11
+2026-03-20 17:02:32 | INFO | P2 | shell=powershell
+2026-03-20 17:02:32 | INFO | P2 | cwd=.
+2026-03-20 17:02:32 | INFO | P2 | github_actions=False
+2026-03-20 17:02:32 | INFO | P2 | ========================
+2026-03-20 17:02:32 | INFO | P2 | START main()
+2026-03-20 17:02:32 | INFO | P2 | ========================
+2026-03-20 17:02:32 | INFO | P2 | ROOT_DIR = .
+2026-03-20 17:02:32 | INFO | P2 | DATA_FILE = data\clinic_data_dawson.csv
+2026-03-20 17:02:32 | INFO | P2 | OUTPUT_FILE = artifacts\anomalies_dawson.csv
+2026-03-20 17:02:32 | INFO | P2 | ARTIFACTS_DIR = artifacts
+2026-03-20 17:02:32 | INFO | P2 | Loaded 24 patient records
+2026-03-20 17:02:32 | INFO | P2 | Studying children's ages and heights to find anomalies...
+2026-03-20 17:02:32 | INFO | P2 | MAX_REASONABLE_X_VALUE: 16.0 in years
+2026-03-20 17:02:32 | INFO | P2 | MAX_REASONABLE_Y_VALUE: 72.0 in inches
+2026-03-20 17:02:32 | INFO | P2 | Count of anomalies found: 24
+2026-03-20 17:02:32 | INFO | P2 | Wrote anomalies file: C:\Repos\cintel-02-static-anomalies\artifacts\anomalies_dawson.csv
+2026-03-20 17:02:32 | INFO | P2 | ========================
+2026-03-20 17:02:32 | INFO | P2 | Pipeline executed successfully!
+2026-03-20 17:02:32 | INFO | P2 | ========================
+2026-03-20 17:02:32 | INFO | P2 | END main()
+2026-03-20 17:05:56 | INFO | P2 | === RUN START ===
+2026-03-20 17:05:56 | INFO | P2 | project=CINTEL
+2026-03-20 17:05:56 | INFO | P2 | repo_dir=cintel-02-static-anomalies
+2026-03-20 17:05:56 | INFO | P2 | python=3.14.2
+2026-03-20 17:05:56 | INFO | P2 | os=Windows 11
+2026-03-20 17:05:56 | INFO | P2 | shell=powershell
+2026-03-20 17:05:56 | INFO | P2 | cwd=.
+2026-03-20 17:05:56 | INFO | P2 | github_actions=False
+2026-03-20 17:05:56 | INFO | P2 | ========================
+2026-03-20 17:05:56 | INFO | P2 | START main()
+2026-03-20 17:05:56 | INFO | P2 | ========================
+2026-03-20 17:05:56 | INFO | P2 | ROOT_DIR = .
+2026-03-20 17:05:56 | INFO | P2 | DATA_FILE = data\clinic_data_dawson.csv
+2026-03-20 17:05:56 | INFO | P2 | OUTPUT_FILE = artifacts\anomalies_dawson.csv
+2026-03-20 17:05:56 | INFO | P2 | ARTIFACTS_DIR = artifacts
+2026-03-20 17:05:56 | INFO | P2 | Loaded 46 patient records
+2026-03-20 17:05:56 | INFO | P2 | Studying children's ages and heights to find anomalies...
+2026-03-20 17:05:56 | INFO | P2 | MAX_REASONABLE_X_VALUE: 16.0 in years
+2026-03-20 17:05:56 | INFO | P2 | MAX_REASONABLE_Y_VALUE: 72.0 in inches
+2026-03-20 17:05:56 | INFO | P2 | Count of anomalies found: 27
+2026-03-20 17:05:56 | INFO | P2 | Wrote anomalies file: C:\Repos\cintel-02-static-anomalies\artifacts\anomalies_dawson.csv
+2026-03-20 17:05:56 | INFO | P2 | ========================
+2026-03-20 17:05:56 | INFO | P2 | Pipeline executed successfully!
+2026-03-20 17:05:56 | INFO | P2 | ========================
+2026-03-20 17:05:56 | INFO | P2 | END main()
+2026-03-20 17:10:56 | INFO | P2 | === RUN START ===
+2026-03-20 17:10:56 | INFO | P2 | project=CINTEL
+2026-03-20 17:10:56 | INFO | P2 | repo_dir=cintel-02-static-anomalies
+2026-03-20 17:10:56 | INFO | P2 | python=3.14.2
+2026-03-20 17:10:56 | INFO | P2 | os=Windows 11
+2026-03-20 17:10:56 | INFO | P2 | shell=powershell
+2026-03-20 17:10:56 | INFO | P2 | cwd=.
+2026-03-20 17:10:56 | INFO | P2 | github_actions=False
+2026-03-20 17:10:56 | INFO | P2 | ========================
+2026-03-20 17:10:56 | INFO | P2 | START main()
+2026-03-20 17:10:56 | INFO | P2 | ========================
+2026-03-20 17:10:56 | INFO | P2 | ROOT_DIR = .
+2026-03-20 17:10:56 | INFO | P2 | DATA_FILE = data\clinic_data_dawson.csv
+2026-03-20 17:10:56 | INFO | P2 | OUTPUT_FILE = artifacts\anomalies_dawson.csv
+2026-03-20 17:10:56 | INFO | P2 | ARTIFACTS_DIR = artifacts
+2026-03-20 17:10:56 | INFO | P2 | Loaded 22 patient records
+2026-03-20 17:10:56 | INFO | P2 | Studying children's ages and heights to find anomalies...
+2026-03-20 17:10:56 | INFO | P2 | MAX_REASONABLE_X_VALUE: 16.0 in years
+2026-03-20 17:10:56 | INFO | P2 | MAX_REASONABLE_Y_VALUE: 72.0 in inches
+2026-03-20 17:10:56 | INFO | P2 | Count of anomalies found: 3
+2026-03-20 17:10:56 | INFO | P2 | Wrote anomalies file: C:\Repos\cintel-02-static-anomalies\artifacts\anomalies_dawson.csv
+2026-03-20 17:10:56 | INFO | P2 | ========================
+2026-03-20 17:10:56 | INFO | P2 | Pipeline executed successfully!
+2026-03-20 17:10:56 | INFO | P2 | ========================
+2026-03-20 17:10:56 | INFO | P2 | END main()
+2026-03-20 17:21:14 | INFO | P2 | === RUN START ===
+2026-03-20 17:21:14 | INFO | P2 | project=CINTEL
+2026-03-20 17:21:14 | INFO | P2 | repo_dir=cintel-02-static-anomalies
+2026-03-20 17:21:14 | INFO | P2 | python=3.14.2
+2026-03-20 17:21:14 | INFO | P2 | os=Windows 11
+2026-03-20 17:21:14 | INFO | P2 | shell=powershell
+2026-03-20 17:21:14 | INFO | P2 | cwd=.
+2026-03-20 17:21:14 | INFO | P2 | github_actions=False
+2026-03-20 17:21:14 | INFO | P2 | ========================
+2026-03-20 17:21:14 | INFO | P2 | START main()
+2026-03-20 17:21:14 | INFO | P2 | ========================
+2026-03-20 17:21:14 | INFO | P2 | ROOT_DIR = .
+2026-03-20 17:21:14 | INFO | P2 | DATA_FILE = data\clinic_data_dawson.csv
+2026-03-20 17:21:14 | INFO | P2 | OUTPUT_FILE = artifacts\anomalies_dawson.csv
+2026-03-20 17:21:14 | INFO | P2 | ARTIFACTS_DIR = artifacts
+2026-03-20 17:21:14 | INFO | P2 | Loaded 22 patient records
+2026-03-20 17:21:14 | INFO | P2 | Studying children's ages and heights to find anomalies...
+2026-03-20 17:21:14 | INFO | P2 | MAX_REASONABLE_X_VALUE: 16.0 in years
+2026-03-20 17:21:14 | INFO | P2 | MAX_REASONABLE_Y_VALUE: 72.0 in inches
+2026-03-20 17:21:14 | INFO | P2 | Count of anomalies found: 3
+2026-03-20 17:21:14 | INFO | P2 | Wrote anomalies file: C:\Repos\cintel-02-static-anomalies\artifacts\anomalies_dawson.csv
+2026-03-20 17:21:14 | INFO | P2 | ========================
+2026-03-20 17:21:14 | INFO | P2 | Pipeline executed successfully!
+2026-03-20 17:21:14 | INFO | P2 | ========================
+2026-03-20 17:21:14 | INFO | P2 | END main()
+2026-03-20 17:22:43 | INFO | P2 | === RUN START ===
+2026-03-20 17:22:43 | INFO | P2 | project=CINTEL
+2026-03-20 17:22:43 | INFO | P2 | repo_dir=cintel-02-static-anomalies
+2026-03-20 17:22:43 | INFO | P2 | python=3.14.2
+2026-03-20 17:22:43 | INFO | P2 | os=Windows 11
+2026-03-20 17:22:43 | INFO | P2 | shell=powershell
+2026-03-20 17:22:43 | INFO | P2 | cwd=.
+2026-03-20 17:22:43 | INFO | P2 | github_actions=False
+2026-03-20 17:22:43 | INFO | P2 | ========================
+2026-03-20 17:22:43 | INFO | P2 | START main()
+2026-03-20 17:22:43 | INFO | P2 | ========================
+2026-03-20 17:22:43 | INFO | P2 | ROOT_DIR = .
+2026-03-20 17:22:43 | INFO | P2 | DATA_FILE = data\clinic_data_dawson.csv
+2026-03-20 17:22:43 | INFO | P2 | OUTPUT_FILE = artifacts\anomalies_dawson.csv
+2026-03-20 17:22:43 | INFO | P2 | ARTIFACTS_DIR = artifacts
+2026-03-20 17:22:43 | INFO | P2 | Loaded 25 patient records
+2026-03-20 17:22:43 | INFO | P2 | Studying children's ages and heights to find anomalies...
+2026-03-20 17:22:43 | INFO | P2 | MAX_REASONABLE_X_VALUE: 16.0 in years
+2026-03-20 17:22:43 | INFO | P2 | MAX_REASONABLE_Y_VALUE: 72.0 in inches
+2026-03-20 17:22:43 | INFO | P2 | Count of anomalies found: 6
+2026-03-20 17:22:43 | INFO | P2 | Wrote anomalies file: C:\Repos\cintel-02-static-anomalies\artifacts\anomalies_dawson.csv
+2026-03-20 17:22:43 | INFO | P2 | ========================
+2026-03-20 17:22:43 | INFO | P2 | Pipeline executed successfully!
+2026-03-20 17:22:43 | INFO | P2 | ========================
+2026-03-20 17:22:43 | INFO | P2 | END main()
+2026-03-20 17:24:26 | INFO | P2 | === RUN START ===
+2026-03-20 17:24:26 | INFO | P2 | project=CINTEL
+2026-03-20 17:24:26 | INFO | P2 | repo_dir=cintel-02-static-anomalies
+2026-03-20 17:24:26 | INFO | P2 | python=3.14.2
+2026-03-20 17:24:26 | INFO | P2 | os=Windows 11
+2026-03-20 17:24:26 | INFO | P2 | shell=powershell
+2026-03-20 17:24:26 | INFO | P2 | cwd=.
+2026-03-20 17:24:26 | INFO | P2 | github_actions=False
+2026-03-20 17:24:26 | INFO | P2 | ========================
+2026-03-20 17:24:26 | INFO | P2 | START main()
+2026-03-20 17:24:26 | INFO | P2 | ========================
+2026-03-20 17:24:26 | INFO | P2 | ROOT_DIR = .
+2026-03-20 17:24:26 | INFO | P2 | DATA_FILE = data\clinic_data_dawson.csv
+2026-03-20 17:24:26 | INFO | P2 | OUTPUT_FILE = artifacts\anomalies_dawson.csv
+2026-03-20 17:24:26 | INFO | P2 | ARTIFACTS_DIR = artifacts
+2026-03-20 17:24:26 | INFO | P2 | Loaded 25 patient records
+2026-03-20 17:24:26 | INFO | P2 | Studying children's ages and heights to find anomalies...
+2026-03-20 17:24:26 | INFO | P2 | MAX_REASONABLE_X_VALUE: 16.0 in years
+2026-03-20 17:24:26 | INFO | P2 | MAX_REASONABLE_Y_VALUE: 72.0 in inches
+2026-03-20 17:24:26 | INFO | P2 | MIN_REASONABLE_Y_VALUE: 15.0 in inches
+2026-03-20 17:24:26 | INFO | P2 | Count of anomalies found: 7
+2026-03-20 17:24:26 | INFO | P2 | Wrote anomalies file: C:\Repos\cintel-02-static-anomalies\artifacts\anomalies_dawson.csv
+2026-03-20 17:24:26 | INFO | P2 | ========================
+2026-03-20 17:24:26 | INFO | P2 | Pipeline executed successfully!
+2026-03-20 17:24:26 | INFO | P2 | ========================
+2026-03-20 17:24:26 | INFO | P2 | END main()
+2026-03-20 17:25:04 | INFO | P2 | === RUN START ===
+2026-03-20 17:25:04 | INFO | P2 | project=CINTEL
+2026-03-20 17:25:04 | INFO | P2 | repo_dir=cintel-02-static-anomalies
+2026-03-20 17:25:04 | INFO | P2 | python=3.14.2
+2026-03-20 17:25:04 | INFO | P2 | os=Windows 11
+2026-03-20 17:25:04 | INFO | P2 | shell=powershell
+2026-03-20 17:25:04 | INFO | P2 | cwd=.
+2026-03-20 17:25:04 | INFO | P2 | github_actions=False
+2026-03-20 17:25:04 | INFO | P2 | ========================
+2026-03-20 17:25:04 | INFO | P2 | START main()
+2026-03-20 17:25:04 | INFO | P2 | ========================
+2026-03-20 17:25:04 | INFO | P2 | ROOT_DIR = .
+2026-03-20 17:25:04 | INFO | P2 | DATA_FILE = data\clinic_data_dawson.csv
+2026-03-20 17:25:04 | INFO | P2 | OUTPUT_FILE = artifacts\anomalies_dawson.csv
+2026-03-20 17:25:04 | INFO | P2 | ARTIFACTS_DIR = artifacts
+2026-03-20 17:25:04 | INFO | P2 | Loaded 26 patient records
+2026-03-20 17:25:04 | INFO | P2 | Studying children's ages and heights to find anomalies...
+2026-03-20 17:25:04 | INFO | P2 | MAX_REASONABLE_X_VALUE: 16.0 in years
+2026-03-20 17:25:04 | INFO | P2 | MAX_REASONABLE_Y_VALUE: 72.0 in inches
+2026-03-20 17:25:04 | INFO | P2 | MIN_REASONABLE_Y_VALUE: 15.0 in inches
+2026-03-20 17:25:04 | INFO | P2 | Count of anomalies found: 8
+2026-03-20 17:25:04 | INFO | P2 | Wrote anomalies file: C:\Repos\cintel-02-static-anomalies\artifacts\anomalies_dawson.csv
+2026-03-20 17:25:04 | INFO | P2 | ========================
+2026-03-20 17:25:04 | INFO | P2 | Pipeline executed successfully!
+2026-03-20 17:25:04 | INFO | P2 | ========================
+2026-03-20 17:25:04 | INFO | P2 | END main()
+2026-03-20 17:25:43 | INFO | P2 | === RUN START ===
+2026-03-20 17:25:43 | INFO | P2 | project=CINTEL
+2026-03-20 17:25:43 | INFO | P2 | repo_dir=cintel-02-static-anomalies
+2026-03-20 17:25:43 | INFO | P2 | python=3.14.2
+2026-03-20 17:25:43 | INFO | P2 | os=Windows 11
+2026-03-20 17:25:43 | INFO | P2 | shell=powershell
+2026-03-20 17:25:43 | INFO | P2 | cwd=.
+2026-03-20 17:25:43 | INFO | P2 | github_actions=False
+2026-03-20 17:25:43 | INFO | P2 | ========================
+2026-03-20 17:25:43 | INFO | P2 | START main()
+2026-03-20 17:25:43 | INFO | P2 | ========================
+2026-03-20 17:25:43 | INFO | P2 | ROOT_DIR = .
+2026-03-20 17:25:43 | INFO | P2 | DATA_FILE = data\clinic_data_dawson.csv
+2026-03-20 17:25:43 | INFO | P2 | OUTPUT_FILE = artifacts\anomalies_dawson.csv
+2026-03-20 17:25:43 | INFO | P2 | ARTIFACTS_DIR = artifacts
+2026-03-20 17:25:43 | INFO | P2 | Loaded 26 patient records
+2026-03-20 17:25:43 | INFO | P2 | Studying children's ages and heights to find anomalies...
+2026-03-20 17:25:43 | INFO | P2 | MAX_REASONABLE_X_VALUE: 16.0 in years
+2026-03-20 17:25:43 | INFO | P2 | MAX_REASONABLE_Y_VALUE: 72.0 in inches
+2026-03-20 17:25:43 | INFO | P2 | MIN_REASONABLE_Y_VALUE: 15.0 in inches
+2026-03-20 17:25:43 | INFO | P2 | Count of anomalies found: 8
+2026-03-20 17:25:43 | INFO | P2 | Wrote anomalies file: C:\Repos\cintel-02-static-anomalies\artifacts\anomalies_dawson.csv
+2026-03-20 17:25:43 | INFO | P2 | ========================
+2026-03-20 17:25:43 | INFO | P2 | Pipeline executed successfully!
+2026-03-20 17:25:43 | INFO | P2 | ========================
+2026-03-20 17:25:43 | INFO | P2 | END main()

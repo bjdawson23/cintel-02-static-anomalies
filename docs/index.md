@@ -18,6 +18,36 @@ to get these projects running on your machine.
 - **Your Files** - how to copy the example and create your version
 - **Glossary** - project terms and concepts
 
+## Custom Project
+
+### Dataset
+
+The dataset used was:  clinic_data_dawson.csv
+
+### Signals
+
+I added logic to check if the height is TOO LOW or TOO HIGH.
+
+### Experiments
+
+Testing for height under 15 inches was classified as too low. A reason column explaining which value(s) triggered the anomaly.
+
+### Results
+
+The code found 8 rows with anomolies. Two of the rows had multiple anomilies for age and height.
+
+### Interpretation
+
+The 8 flagged records reveal likely data entry errors in the clinic's patient records system.
+Ages of 94, 120, and 220 years are impossible for a pediatric clinic serving children up to age 16, suggesting transcription likely keying mistakes were made.
+
+A height of 5 inches and a height of 14 inches are unlikely for any full term child, pointing to unit errors or keystroke mistakes.
+Heights of 84 and 95 inches (7–8 feet) are similarly impossible for pediatric patients.
+
+For the clinic, this means the data pipeline successfully identified records that should be reviewed and corrected before being used in any analysis, reporting, or billing.
+
+For Business Intelligence purposes, implementing this anomaly check as a routine step would help protects data quality issues.
+
 ## Additional Resources
 
 - [Suggested Datasets](https://denisecase.github.io/pro-analytics-02/reference/datasets/cintel/)
